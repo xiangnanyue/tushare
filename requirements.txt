@@ -5,3 +5,4 @@ simplejson>=3.16.0
 bs4>=0.0.1
 beautifulsoup4>=4.5.1
 pytdx>=1.72
+xlrd>=1.0.0
